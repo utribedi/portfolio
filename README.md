@@ -11,12 +11,14 @@ Relevant Coursework: Data Science, Data Mining, Data Warehousing and Business In
 ### Work Experience
 NLP Engineer (August 2023 – Present)
 RevSavvy| Remote
+
 • Architected a custom PDF parsing service, seamlessly integrating with a RoBERTa based NLP model via REST API. This 
 innovation set new benchmarks in software release note analysis, offering precise labeling and confidence scoring, and 
 equipping users with unparalleled insights for strategic decisions
 
 Data Engineer (Jan 2023 – May 2023)
 CVS Health | Irving, Texas 
+
 • Improved data quality and consistency through ETL optimization, reducing data errors by 20%
 • Automated data pipelines utilizing PySpark and DAGs using Apache Airflow, resulting in improved system efficiency 
 and reliability
@@ -27,6 +29,7 @@ creation of new offers, coupons, and discounts, boosting customer engagement.
 
 Data Scientist (August 2022 – Dec 2022)
 Canton & Company | Capstone project via UTA & Erick Mwangi @Canton & Company
+
 • Led and managed a team of 6 data scientists to identify different market segments, players in each segment, their 
 capabilities, and the types of clients served by each player in the healthcare domain
 • Developed an AI-based generic web scraper for any client website using custom BERT-based language model. This 
@@ -34,6 +37,7 @@ improved the market landscape assessment process by optimizing 70% of manual tas
 
 Data Scientist May 2020 – May 2021 
 Upwork | Remote
+
 • Analyzed ~2.9M customer churn data as a part of a project to optimize marketing campaigns for a client; leading to a 
 25% increase in marketing ROI. Presented visualizations and data-driven actionable insights using Tableau dashboards, 
 enabling effective tracking of various KPIs.
