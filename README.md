@@ -1,7 +1,6 @@
 # Uttaran Tribedi
 
-📧 [utribedi18@gmail.com](mailto:utribedi18@gmail.com) | 📞 (682) 529-1360 | [LinkedIn](https://www.linkedin.com/in/uttarantribedi) | 🌐 [Medium](https://medium.com/@tribedi_uttaran) | 🎟️ Grace Hopper Celebration '23, WE '23 Attendee
-
+📧 [utribedi18@gmail.com](mailto:utribedi18@gmail.com) | 📞 (682) 529-1360 | [LinkedIn](https://www.linkedin.com/in/uttarantribedi) | 🌐 [Medium](https://medium.com/@tribedi_uttaran) 
 ---
 
 ## 📌 About Me
