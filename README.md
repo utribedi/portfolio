@@ -45,14 +45,18 @@ improved the market landscape assessment process by optimizing 70% of manual tas
 ### **Graduate Research Assistant**  
 **University of Texas at Arlington**  
 *Aug 2022 - Dec 2022*
--  Spearheaded research on passenger dwell times at airports.
--  Developed predictive ML models under the mentorship of esteemed professors.
+Passenger dwell time cost benefit analysis research 
+(Under the patronage of):
+the Department of Homeland Security (DHS), Centre for Accelerating Operational Efficiency (CAOE), University of Arizona, University of Texas at Arlington
+-  Spearheaded the Data Science part of the research by analyzing all possible factors contributing to increase in passenger dwell times at airports across multiple datasets and leveraging them to build predictive ML models under the mentorship of Dr. Ross Maciejewski and Dr. Randy Napier.
 
 ### **Graduate Teaching Assistant**  
 **University of Texas at Arlington**  
 *Jan 2022 - Jul 2022*
--  Taught subjects including Advanced Statistics and Systems Analysis.
--  Assisted in grading and course material preparation.
+-  Teaching course contents: Delivering lectures on specialized topics as the professor may deem necessary in or in absence of the professor.
+-  Preparing course materials: Preparing course materials in the form of power point presentations, handouts, and exam questions.
+-  Grading: Helping the professor in evaluating answer sheets and grading.
+-  Subjects: Advanced Statistics, Systems Analysis and Design, Enterprise Resource Planning, Operations and Supply Chain Management.
 
 ---
 
@@ -61,7 +65,7 @@ improved the market landscape assessment process by optimizing 70% of manual tas
 - **Stock Market Prediction using Fusion of ARIMA and SVR**  
    *International Conference on Computational Methods in Engineering & Health Sciences (ICCMEH 2023)*  
    Predicting stock market prices with accuracy is a complicated task and in the financial sector, forecasting stock prices accurately and reliably is continuing to be a major challenge to the researchers. This paper focuses on the evaluation of prediction methods in the financial ecosystem of the stock market considering the closing price of the stock. The historical data of stock price is extracted from Yahoo finance. The paper compares the performance of traditional statistical analysis methods with the fusion of ARIMA and SVR for stock closing price prediction.
-[Link to the publication](#)
+[Link to publication](#)
 
 ---
 
@@ -80,7 +84,7 @@ Demonstrated the ability to design distributed systems on AWS. This certificatio
 - **Programming**: Python, Java, R, SQL
 - **Data Science Libraries**: NumPy, Pandas, scikit-learn, SciPy, TensorFlow, Keras, PyTorch, selenium, matplotlib, NLTK, spaCy, TextBlob
 - **Tools**: Tableau, AWS (AWS Certified Solutions Architect Associate), Apache Spark, Snowflake, Docker, Apache Airflow, Kafka, MLFlow, Kubeflow, Jupyter, Jenkins, JIRA, Git, MS Excel
-- **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMsLarge Language Models- (BERT, BARD, GPT), Langchain, Pinecone
+- **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMs-Large Language Models- (BERT, BARD, GPT), Langchain, Pinecone
 
 ---
 
