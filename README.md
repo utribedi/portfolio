@@ -6,7 +6,8 @@
 
 ## 📌 About Me
 
-I'm an experienced NLP Engineer and Data Scientist with a strong background in Business Analytics. Passionate about leveraging data to inform business decisions, I've been involved in a myriad of projects, from optimizing marketing campaigns to leading cutting-edge research initiatives.
+Hey there! I'm a curious mind with a passion for all things data. Over the years, I've dabbled in data science, nlp, machine learning, and data engineering, always looking for that "aha!" moment when data reveals its secrets. Whether I'm crafting innovative solutions, untangling data knots, or collaborating with a diverse team, I bring my all to the table. 
+What excites me most? Turning complex data into insights that can shape the future. And along the way, I've been fortunate to work with some fantastic tools and technologies that keep the journey thrilling.
 
 ---
 
