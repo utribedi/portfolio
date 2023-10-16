@@ -1,10 +1,11 @@
 # Uttaran Tribedi
 
 <div align="center">
-    <a href="mailto:utribedi18@gmail.com">📧 utribedi18@gmail.com</a> |
-    <a href="tel:+16825291360">📞 (682) 529-1360</a> |
-    <a href="https://www.linkedin.com/in/uttarantribedi" target="_blank">🔗 LinkedIn</a> |
-    <a href="https://medium.com/@tribedi_uttaran" target="_blank">✍️ Medium</a>
+    <a href="mailto:utribedi18@gmail.com"> utribedi18@gmail.com</a> |
+    <a href="tel:+16825291360"> (682) 529-1360</a> |
+    <a href="https://www.linkedin.com/in/uttarantribedi" target="_blank"> LinkedIn</a> |
+    <a href="https://github.com/utribedi" target="_blank">🔗 GitHub</a> |
+    <a href="https://medium.com/@tribedi_uttaran" target="_blank"> Medium</a>
 </div>
 
 ---
