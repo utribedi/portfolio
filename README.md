@@ -44,7 +44,8 @@ improved the market landscape assessment process by optimizing 70% of manual tas
 ### **Graduate Research Assistant**  
 **University of Texas at Arlington**  
 *Aug 2022 - Dec 2022*
-Passenger dwell time cost benefit analysis research 
+
+Passenger dwell time cost benefit analysis research
 (Under the patronage of):
 the Department of Homeland Security (DHS), Centre for Accelerating Operational Efficiency (CAOE), University of Arizona, University of Texas at Arlington
 -  Spearheaded the Data Science part of the research by analyzing all possible factors contributing to increase in passenger dwell times at airports across multiple datasets and leveraging them to build predictive ML models under the mentorship of Dr. Ross Maciejewski and Dr. Randy Napier.
