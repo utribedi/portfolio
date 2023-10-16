@@ -47,6 +47,15 @@ What excites me most? Turning complex data into insights that can shape the futu
 
 ---
 
+## 📚 Publications
+
+1. **Stock Market Prediction using Fusion of ARIMA and SVR**  
+   *International Conference on Computational Methods in Engineering & Health Sciences (ICCMEH 2023)*  
+   Predicting stock market prices with accuracy is a complicated task and in the financial sector, forecasting stock prices accurately and reliably is continuing to be a major challenge to the researchers. This paper focuses on the evaluation of prediction methods in the financial ecosystem of the stock market considering the closing price of the stock. The historical data of stock price is extracted from Yahoo finance. The paper compares the performance of traditional statistical analysis methods with the fusion of ARIMA and SVR for stock closing price prediction.
+[Link to the publication if available](#)
+
+---
+
 ## 🛠 Skills
 
 - **Programming**: Python, Java, R, SQL
