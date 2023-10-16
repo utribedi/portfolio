@@ -34,7 +34,6 @@ and reliability
 workflows to train, test, and deploy multiple models, ensuring that they are optimized for performance and scalability
 -  Collaborated with Marketing and Sales Teams to identify customer segments and tailor data-driven strategies for the creation of new offers, coupons, and discounts, boosting customer engagement.
 
-
 ### **Data Scientist Capstone Project**  
 **Canton & Company | Baltimore, Maryland**  
 *August 2022 – Dec 2022*
@@ -57,6 +56,15 @@ the Department of Homeland Security (DHS), Centre for Accelerating Operational E
 -  Preparing course materials: Preparing course materials in the form of power point presentations, handouts, and exam questions.
 -  Grading: Helping the professor in evaluating answer sheets and grading.
 -  Subjects: Advanced Statistics, Systems Analysis and Design, Enterprise Resource Planning, Operations and Supply Chain Management.
+
+### **Data Scientist**  
+**Upwork**  
+*May 2020 - May 2021*
+- Analyzed ~2.9M customer churn data as a part of a project to optimize marketing campaigns for a client; leading to a 25% increase in marketing ROI. Presented visualizations and data-driven actionable insights using Tableau dashboards, enabling effective tracking of various KPIs.
+- Leveraged R (dplyr, ggplot2) and Python (Scikit-learn) to conduct statistical analysis and build predictive models (Linear Regression, Random Forest, XGBoost), reducing demand forecasting MAPE by 15% as a part of a project where the supply chain efficiency had to be increased. This improvement led to a 20% decrease in stock-outs and overstock situations
+- Executed A/B tests to evaluate different business strategies, contributing to data-driven decision-making for clients
+- Streamlined ETL processes and data pipeline management with SQL, BigQuery, and Apache Spark, slashing data 
+processing time by 40% and leading to a 10% sales uptick from timely, data-informed campaigns
 
 ---
 
