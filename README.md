@@ -58,7 +58,7 @@ What excites me most? Turning complex data into insights that can shape the futu
 
 ## 🏆 Certification
 
-### **AWS Certified Solutions Architect – Associate**  
+- ### **AWS Certified Solutions Architect – Associate**  
 *Amazon Web Services*  
 *Issued May 2023*  
 Demonstrated the ability to design distributed systems on AWS. This certification validates knowledge in deploying robust and cost-effective applications on the AWS platform.
