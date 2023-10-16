@@ -16,34 +16,34 @@ What excites me most? Turning complex data into insights that can shape the futu
 ### **NLP Engineer**  
 **RevSavvy | Remote**  
 *August 2023 – Present*
-- 🚀 Architected a custom PDF parsing service, integrating with a RoBERTa based NLP model via REST API.
-- 📈 Set new benchmarks in software release note analysis with precise labeling and confidence scoring.
+-  Architected a custom PDF parsing service, integrating with a RoBERTa based NLP model via REST API.
+-  Set new benchmarks in software release note analysis with precise labeling and confidence scoring.
 
 ### **Data Engineer**  
 **CVS Health | Irving, Texas**  
 *Jan 2023 – May 2023*
-- 📊 Improved data quality by 20% through ETL optimization.
-- 🤖 Automated data pipelines with PySpark and Apache Airflow.
-- 🌐 Automated ML model deployment using Kubeflow.
-- 🤝 Collaborated with Marketing and Sales to craft data-driven strategies.
+-  Improved data quality by 20% through ETL optimization.
+-  Automated data pipelines with PySpark and Apache Airflow.
+-  Automated ML model deployment using Kubeflow.
+-  Collaborated with Marketing and Sales to craft data-driven strategies.
 
 ### **Data Scientist Capstone Project**  
 **Canton & Company | Baltimore, Maryland**  
 *August 2022 – Dec 2022*
-- 🚀 Led a team of 6 data scientists for market landscape assessment in healthcare.
-- 🌐 Developed an AI-based web scraper using a custom BERT-based language model.
+-  Led a team of 6 data scientists for market landscape assessment in healthcare.
+-  Developed an AI-based web scraper using a custom BERT-based language model.
 
 ### **Graduate Research Assistant**  
 **University of Texas at Arlington**  
 *Aug 2022 - Dec 2022*
-- 📊 Spearheaded research on passenger dwell times at airports.
-- 🤖 Developed predictive ML models under the mentorship of esteemed professors.
+-  Spearheaded research on passenger dwell times at airports.
+-  Developed predictive ML models under the mentorship of esteemed professors.
 
 ### **Graduate Teaching Assistant**  
 **University of Texas at Arlington**  
 *Jan 2022 - Jul 2022*
-- 🎓 Taught subjects including Advanced Statistics and Systems Analysis.
-- 📝 Assisted in grading and course material preparation.
+-  Taught subjects including Advanced Statistics and Systems Analysis.
+-  Assisted in grading and course material preparation.
 
 ---
 
