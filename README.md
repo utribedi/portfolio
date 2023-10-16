@@ -91,7 +91,7 @@ processing time by 40% and leading to a 10% sales uptick from timely, data-infor
 *Amazon Web Services*  
 *Issued May 2023*  
 Demonstrated the ability to design distributed systems on AWS. This certification validates knowledge in deploying robust and cost-effective applications on the AWS platform.
-[Link](#)
+[[Link](https://www.credly.com/badges/65aef67b-992a-4c0e-bec8-74202946b6e3)](#)
 
 ---
 
