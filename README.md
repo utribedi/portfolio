@@ -24,6 +24,7 @@ What excites me most? Turning complex data into insights that can shape the futu
 -  Architected a custom PDF parsing service, integrating with a RoBERTa based NLP model via REST API.
 -  Set new benchmarks in software release note analysis with precise labeling and confidence scoring.
 
+
 ### **Data Engineer**  
 **CVS Health | Irving, Texas**  
 *Jan 2023 – May 2023*
@@ -34,12 +35,14 @@ and reliability
 workflows to train, test, and deploy multiple models, ensuring that they are optimized for performance and scalability
 -  Collaborated with Marketing and Sales Teams to identify customer segments and tailor data-driven strategies for the creation of new offers, coupons, and discounts, boosting customer engagement.
 
+
 ### **Data Scientist Capstone Project**  
 **Canton & Company | Baltimore, Maryland**  
 *August 2022 – Dec 2022*
 -  Led and managed a team of 6 data scientists to identify different market segments, players in each segment, their capabilities, and the types of clients served by each player in the healthcare domain
 -  Developed an AI-based generic web scraper for any client website using custom BERT-based language model. This 
 improved the market landscape assessment process by optimizing 70% of manual tasks.
+
 
 ### **Graduate Research Assistant**  
 **University of Texas at Arlington**  
@@ -49,6 +52,7 @@ improved the market landscape assessment process by optimizing 70% of manual tas
 (Under the patronage of): the Department of Homeland Security (DHS), Centre for Accelerating Operational Efficiency (CAOE), University of Arizona, University of Texas at Arlington
 -  Spearheaded the Data Science part of the research by analyzing all possible factors contributing to increase in passenger dwell times at airports across multiple datasets and leveraging them to build predictive ML models under the mentorship of Dr. Ross Maciejewski and Dr. Randy Napier.
 
+
 ### **Graduate Teaching Assistant**  
 **University of Texas at Arlington**  
 *Jan 2022 - Jul 2022*
@@ -56,6 +60,7 @@ improved the market landscape assessment process by optimizing 70% of manual tas
 -  Preparing course materials: Preparing course materials in the form of power point presentations, handouts, and exam questions.
 -  Grading: Helping the professor in evaluating answer sheets and grading.
 -  Subjects: Advanced Statistics, Systems Analysis and Design, Enterprise Resource Planning, Operations and Supply Chain Management.
+
 
 ### **Data Scientist**  
 **Upwork**  
@@ -68,6 +73,7 @@ processing time by 40% and leading to a 10% sales uptick from timely, data-infor
 
 ---
 
+
 ## 📚 Publication
 
 - **Stock Market Prediction using Fusion of ARIMA and SVR**  
@@ -76,6 +82,7 @@ processing time by 40% and leading to a 10% sales uptick from timely, data-infor
 [Link to publication](#)
 
 ---
+
 
 ## 🏆 Certification
 
@@ -87,6 +94,7 @@ Demonstrated the ability to design distributed systems on AWS. This certificatio
 
 ---
 
+
 ## 🛠 Skills
 
 - **Programming**: Python, Java, R, SQL
@@ -95,6 +103,7 @@ Demonstrated the ability to design distributed systems on AWS. This certificatio
 - **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMs-Large Language Models- (BERT, BARD, GPT), Langchain, Pinecone
 
 ---
+
 
 ## 🎓 Education
 
