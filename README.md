@@ -47,21 +47,31 @@ What excites me most? Turning complex data into insights that can shape the futu
 
 ---
 
-## 📚 Publications
+## 📚 Publication
 
-1. **Stock Market Prediction using Fusion of ARIMA and SVR**  
+- **Stock Market Prediction using Fusion of ARIMA and SVR**  
    *International Conference on Computational Methods in Engineering & Health Sciences (ICCMEH 2023)*  
    Predicting stock market prices with accuracy is a complicated task and in the financial sector, forecasting stock prices accurately and reliably is continuing to be a major challenge to the researchers. This paper focuses on the evaluation of prediction methods in the financial ecosystem of the stock market considering the closing price of the stock. The historical data of stock price is extracted from Yahoo finance. The paper compares the performance of traditional statistical analysis methods with the fusion of ARIMA and SVR for stock closing price prediction.
-[Link to the publication if available](#)
+[Link to the publication](#)
+
+---
+
+## 🏆 Certification
+
+### **AWS Certified Solutions Architect – Associate**  
+*Amazon Web Services*  
+*Issued May 2023*  
+Demonstrated the ability to design distributed systems on AWS. This certification validates knowledge in deploying robust and cost-effective applications on the AWS platform.
+[Link](#)
 
 ---
 
 ## 🛠 Skills
 
 - **Programming**: Python, Java, R, SQL
-- **Data Science Libraries**: NumPy, Pandas, scikit-learn, TensorFlow, and more.
-- **Tools**: Tableau, AWS, Apache Spark, Docker, JIRA, and more.
-- **Specializations**: Data Visualization, CI/CD, Machine Learning, NLP, and Large Language Models.
+- **Data Science Libraries**: NumPy, Pandas, scikit-learn, SciPy, TensorFlow, Keras, PyTorch, selenium, matplotlib, NLTK, spaCy, TextBlob
+- **Tools**: Tableau, AWS (AWS Certified Solutions Architect Associate), Apache Spark, Snowflake, Docker, Apache Airflow, Kafka, MLFlow, Kubeflow, Jupyter, Jenkins, JIRA, Git, MS Excel
+- **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMsLarge Language Models- (BERT, BARD, GPT), Langchain, Pinecone
 
 ---
 
