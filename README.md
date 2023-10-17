@@ -100,7 +100,7 @@ Demonstrated the ability to design distributed systems on AWS. This certificatio
 
 - **Programming**: Python, Java, R, SQL
 - **Data Science Libraries**: NumPy, Pandas, scikit-learn, SciPy, TensorFlow, Keras, PyTorch, selenium, matplotlib, NLTK, spaCy, TextBlob
-- **Tools**: Tableau, AWS (AWS Certified Solutions Architect Associate), Apache Spark, Snowflake, Docker, Apache Airflow, Kafka, MLFlow, Kubeflow, Jupyter, Jenkins, JIRA, Git, MS Excel
+- **Tools**: Tableau, AWS, Apache Spark, Snowflake, Docker, Apache Airflow, Kafka, MLFlow, Kubeflow, Jupyter, Jenkins, JIRA, Git, MS Excel
 - **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMs-Large Language Models- (BERT, BARD, GPT), Langchain, Pinecone
 
 ---
