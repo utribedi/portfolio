@@ -1,4 +1,5 @@
 # Data Scientist
+<link rel="shortcut icon" type="image/png" href="{{ '/icon.png' }}">
 
 <div align="center">
     <a href="mailto:utribedi18@gmail.com"> utribedi18@gmail.com</a> |
