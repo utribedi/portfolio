@@ -12,8 +12,7 @@
 
 ## 📌 About Me
 
-Hey there! I'm a curious mind with a passion for all things data. Over the years, I've dabbled in data science, nlp, machine learning, and data engineering, always looking for that "aha!" moment when data reveals its secrets. Whether I'm crafting innovative solutions, untangling data knots, or collaborating with a diverse team, I bring my all to the table. 
-So, if you're looking for someone who's as much about the numbers as the narrative behind them, let's chat!
+Hey there! I'm a curious mind with a passion for all things data. Over the years, I've dabbled in data science, nlp, machine learning, and data engineering, always looking for that "aha!" moment when data reveals its secrets. Whether I'm crafting innovative solutions, untangling data knots, or collaborating with a diverse team, I bring my all to the table. So, if you're looking for someone who's as much about the numbers as the narrative behind them, let's chat!
 ---
 
 ## 💼 Experience
