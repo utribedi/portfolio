@@ -36,8 +36,8 @@ workflows to train, test, and deploy multiple models, ensuring that they are opt
 -  Collaborated with Marketing and Sales Teams to identify customer segments and tailor data-driven strategies for the creation of new offers, coupons, and discounts, boosting customer engagement.
 
 
-### **Data Scientist Capstone Project**  
-**Canton & Company | Baltimore, Maryland**  
+### **Data Scientist**  
+**Capstone Project @Canton & Company**  
 *August 2022 – Dec 2022*
 -  Led and managed a team of 6 data scientists to identify different market segments, players in each segment, their capabilities, and the types of clients served by each player in the healthcare domain
 -  Developed an AI-based generic web scraper for any client website using custom BERT-based language model. This 
