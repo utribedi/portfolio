@@ -1,4 +1,4 @@
-# Uttaran Tribedi
+# Data Scientist
 
 <div align="center">
     <a href="mailto:utribedi18@gmail.com"> utribedi18@gmail.com</a> |
