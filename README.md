@@ -1,5 +1,4 @@
 # Data Scientist
-<head><link rel="shortcut icon" type="image/x-icon" href="/favicon.png"></head>
 
 
 <div align="center">
