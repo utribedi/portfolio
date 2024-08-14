@@ -19,11 +19,13 @@
 
 ## 💼 Experience
 
-### **NLP Engineer**  
+### **Generative AI Engineer**  
 **RevSavvy | Remote**  
 *August 2023 – Present*
--  Architected a custom PDF parsing service, integrating with a RoBERTa based NLP model via REST API.
--  Set new benchmarks in software release note analysis with precise labeling and confidence scoring.
+-  Architected a custom PDF parsing service, integrating with a RoBERTa based NLP model via REST API
+-  Set new benchmarks in software release note analysis with precise labeling and confidence scoring and equipping users with insights for strategic decisions
+-  Designed and implemented efficient ETL pipelines into a centralized data warehouse
+-  Leveraged AWS services, including S3 and SageMaker for achieving scalable and cost-effective solutions. Also integrated Retrieval-Augmented Generation (RAG) techniques to enhance the accuracy and relevance of NLP models
 
 
 ### **Data Engineer**  
