@@ -87,11 +87,12 @@ processing time by 40% and leading to a 10% sales uptick from timely, data-infor
    Predicting stock market prices with accuracy is a complicated task and in the financial sector, forecasting stock prices accurately and reliably is continuing to be a major challenge to the researchers. This paper focuses on the evaluation of prediction methods in the financial ecosystem of the stock market considering the closing price of the stock. The historical data of stock price is extracted from Yahoo finance. The paper compares the performance of traditional statistical analysis methods with the fusion of ARIMA and SVR for stock closing price prediction
 [[Link]](https://drive.google.com/file/d/1GqDnqC2VN8QwWRGQUNghKDbE7yVVl2Fy/view?usp=sharing)
 
----
+
 ## ✍️ Articles (on Medium)
 
-- **Link to my Meduim profile. Do give a follow if you like my writings**  
+- **My Medium profile. Do give a follow if you like my writings**  
 [[Link]](https://medium.com/@tribedi_uttaran)
+
 
 ## 🏆 Certification
 
@@ -119,7 +120,6 @@ Demonstrated the ability to design distributed systems on AWS. This certificatio
 ### **MS in Business Analytics**  
 *University of Texas at Arlington*  
 *Dec 2022*  
-GPA: 3.64
 
 ### **BTech in Electronics and Instrumentation Engineering**  
 *Manipal Institute of Technology*  
