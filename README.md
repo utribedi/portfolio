@@ -22,10 +22,12 @@
 ### **Generative AI Engineer**  
 **RevSavvy | Remote**  
 *August 2023 – Present*
--  Architected a custom PDF parsing service, integrating with a RoBERTa based NLP model via REST API
--  Set new benchmarks in software release note analysis with precise labeling and confidence scoring and equipping users with insights for strategic decisions
--  Designed and implemented efficient ETL pipelines into a centralized data warehouse
--  Leveraged AWS services, including S3 and SageMaker for achieving scalable and cost-effective solutions. Also integrated Retrieval-Augmented Generation (RAG) techniques to enhance the accuracy and relevance of NLP models
+- Architected and deployed a scalable Gen AI platform with advanced LLMs (GPT-4, PaLM), fine-tuned for parsing and extracting insights from software release notes in PDF format.
+- Developed custom LLM agents using OpenAI and Gemini APIs to process varied software documentation, detect updates, and deliver actionable summaries for client use.
+- Designed and integrated a Retrieval Augmented Generation (RAG) system with LangChain and VectorDB, enabling the parser to leverage real-time data for accurate update insights.
+- Built a custom PDF parsing service using RoBERTa, integrated via REST API, setting new standards in release note analysis through precise labeling, confidence scoring, and strategic insights.
+- Created efficient ETL pipelines into a centralized data warehouse, using AWS (S3, SageMaker) for scalable, cost-effective data solutions.
+
 
 
 ### **Data Engineer**  
@@ -103,7 +105,7 @@ Demonstrated the ability to design distributed systems on AWS. This certificatio
 - **Programming**: Python, Java, R, SQL
 - **Data Science Libraries**: NumPy, Pandas, scikit-learn, SciPy, TensorFlow, Keras, PyTorch, selenium, matplotlib, NLTK, spaCy, TextBlob
 - **Tools**: Tableau, AWS, Apache Spark, Snowflake, Docker, Apache Airflow, Kafka, MLFlow, Kubeflow, Jupyter, Jenkins, JIRA, Git, MS Excel
-- **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMs-Large Language Models- (BERT, BARD, GPT), Langchain, Pinecone
+- **Topics**: Data Visualization, CI/CD, Statistical Modeling, Machine Learning (regression, clustering, classification algorithms including Random Forest, Logistic Regression, XGBoost, K-Means Clustering, etc.), Natural Language Processing, LLMs-Large Language Models- (BERT, Gemini, GPT, Llama), LangChain, LangGraph, LangSmith, Pinecone
 
 ---
 
