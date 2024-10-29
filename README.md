@@ -88,7 +88,10 @@ processing time by 40% and leading to a 10% sales uptick from timely, data-infor
 [[Link]](https://drive.google.com/file/d/1GqDnqC2VN8QwWRGQUNghKDbE7yVVl2Fy/view?usp=sharing)
 
 ---
+## ✍️ Articles (on Medium)
 
+- **Link to my Meduim profile. Do give a follow if you like my writings**  
+[[Link]](https://medium.com/@tribedi_uttaran)
 
 ## 🏆 Certification
 
